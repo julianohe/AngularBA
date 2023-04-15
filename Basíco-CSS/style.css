@@ -1,0 +1,11 @@
+html{
+    color: #EE0000;
+    background-color: black;
+    background-image: url("./me.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+}
+main{
+    font-family: 'Times New Roman', Times, serif;
+}

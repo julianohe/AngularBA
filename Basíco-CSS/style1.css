@@ -1,0 +1,29 @@
+.box{
+    box-sizing: content-box;
+    color:  white;
+    width: 5rem;
+    height: 5rem;
+    padding:5px 2px 3px 10px;
+    border: 2px dotted black;
+    border-radius: 20px;
+    margin: 10px 0 5px 10px;
+}
+.section{
+    display: block;
+
+}7800771529
+.vermelho{
+    background-color: red;
+    border-width:0.1rem;
+    border-bottom-width:0;
+    border-style: dashed;
+}
+.azul{
+    background-color: blue;
+    border-width: 10px 0 5px 3px;
+    border-bottom-style:double;
+}
+.verde{
+    background-color: green;
+    border-style:solid;
+}
